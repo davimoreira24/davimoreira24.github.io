@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "00cb614dcce5d3d82437e48cbd9ca16e",
+    "revision": "5d340087b616b2615ca7a90fce9f2909",
     "url": "/davimoreira24.github.io/index.html"
   },
   {
@@ -8,11 +8,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/davimoreira24.github.io/static/css/3.879e9400.chunk.css"
   },
   {
-    "revision": "6b7b783ae9c4c2f54e02",
+    "revision": "0f52f97c6c19170b708f",
     "url": "/davimoreira24.github.io/static/css/4.54df59d4.chunk.css"
   },
   {
-    "revision": "6cfcb1db42125bfe50a6",
+    "revision": "95687bd6083087d24a82",
     "url": "/davimoreira24.github.io/static/css/main.2c6ceae5.chunk.css"
   },
   {
@@ -24,16 +24,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/davimoreira24.github.io/static/js/3.a8070221.chunk.js"
   },
   {
-    "revision": "6b7b783ae9c4c2f54e02",
-    "url": "/davimoreira24.github.io/static/js/4.be49ce43.chunk.js"
+    "revision": "0f52f97c6c19170b708f",
+    "url": "/davimoreira24.github.io/static/js/4.cb71e713.chunk.js"
   },
   {
-    "revision": "6cfcb1db42125bfe50a6",
-    "url": "/davimoreira24.github.io/static/js/main.1126a26d.chunk.js"
+    "revision": "95687bd6083087d24a82",
+    "url": "/davimoreira24.github.io/static/js/main.40e00ecf.chunk.js"
   },
   {
-    "revision": "2d3fb32cb32de422b027",
-    "url": "/davimoreira24.github.io/static/js/runtime-main.5ffb9b6d.js"
+    "revision": "6df0ca30a74181fba481",
+    "url": "/davimoreira24.github.io/static/js/runtime-main.a0356e13.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/davimoreira24.github.io/precache-manifest.136dbd913ea972fb1be27a5d30cae1b7.js"
+  "/davimoreira24.github.io/precache-manifest.d27e5434fd86738cefbc5f34eda6cd13.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/davimoreira24.github.io/static/css/main.2c6ceae5.chunk.css",
-    "main.js": "/davimoreira24.github.io/static/js/main.1126a26d.chunk.js",
-    "main.js.map": "/davimoreira24.github.io/static/js/main.1126a26d.chunk.js.map",
-    "runtime-main.js": "/davimoreira24.github.io/static/js/runtime-main.5ffb9b6d.js",
-    "runtime-main.js.map": "/davimoreira24.github.io/static/js/runtime-main.5ffb9b6d.js.map",
+    "main.js": "/davimoreira24.github.io/static/js/main.40e00ecf.chunk.js",
+    "main.js.map": "/davimoreira24.github.io/static/js/main.40e00ecf.chunk.js.map",
+    "runtime-main.js": "/davimoreira24.github.io/static/js/runtime-main.a0356e13.js",
+    "runtime-main.js.map": "/davimoreira24.github.io/static/js/runtime-main.a0356e13.js.map",
     "static/js/2.6d7a2198.chunk.js": "/davimoreira24.github.io/static/js/2.6d7a2198.chunk.js",
     "static/js/2.6d7a2198.chunk.js.map": "/davimoreira24.github.io/static/js/2.6d7a2198.chunk.js.map",
     "static/css/3.879e9400.chunk.css": "/davimoreira24.github.io/static/css/3.879e9400.chunk.css",
     "static/js/3.a8070221.chunk.js": "/davimoreira24.github.io/static/js/3.a8070221.chunk.js",
     "static/js/3.a8070221.chunk.js.map": "/davimoreira24.github.io/static/js/3.a8070221.chunk.js.map",
     "static/css/4.54df59d4.chunk.css": "/davimoreira24.github.io/static/css/4.54df59d4.chunk.css",
-    "static/js/4.be49ce43.chunk.js": "/davimoreira24.github.io/static/js/4.be49ce43.chunk.js",
-    "static/js/4.be49ce43.chunk.js.map": "/davimoreira24.github.io/static/js/4.be49ce43.chunk.js.map",
+    "static/js/4.cb71e713.chunk.js": "/davimoreira24.github.io/static/js/4.cb71e713.chunk.js",
+    "static/js/4.cb71e713.chunk.js.map": "/davimoreira24.github.io/static/js/4.cb71e713.chunk.js.map",
     "index.html": "/davimoreira24.github.io/index.html",
-    "precache-manifest.136dbd913ea972fb1be27a5d30cae1b7.js": "/davimoreira24.github.io/precache-manifest.136dbd913ea972fb1be27a5d30cae1b7.js",
+    "precache-manifest.d27e5434fd86738cefbc5f34eda6cd13.js": "/davimoreira24.github.io/precache-manifest.d27e5434fd86738cefbc5f34eda6cd13.js",
     "service-worker.js": "/davimoreira24.github.io/service-worker.js",
     "static/css/3.879e9400.chunk.css.map": "/davimoreira24.github.io/static/css/3.879e9400.chunk.css.map",
     "static/css/4.54df59d4.chunk.css.map": "/davimoreira24.github.io/static/css/4.54df59d4.chunk.css.map",
@@ -32,9 +32,9 @@
     "static/media/TalkCard.css": "/davimoreira24.github.io/static/media/talksCardBack.13780cdd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5ffb9b6d.js",
+    "static/js/runtime-main.a0356e13.js",
     "static/js/2.6d7a2198.chunk.js",
     "static/css/main.2c6ceae5.chunk.css",
-    "static/js/main.1126a26d.chunk.js"
+    "static/js/main.40e00ecf.chunk.js"
   ]
 }
